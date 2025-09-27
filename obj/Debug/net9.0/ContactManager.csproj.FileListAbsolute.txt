@@ -1,0 +1,15 @@
+/Users/wojciechczok/Documents/code/csharp/ContactManager/bin/Debug/net9.0/ContactManager
+/Users/wojciechczok/Documents/code/csharp/ContactManager/bin/Debug/net9.0/ContactManager.deps.json
+/Users/wojciechczok/Documents/code/csharp/ContactManager/bin/Debug/net9.0/ContactManager.runtimeconfig.json
+/Users/wojciechczok/Documents/code/csharp/ContactManager/bin/Debug/net9.0/ContactManager.dll
+/Users/wojciechczok/Documents/code/csharp/ContactManager/bin/Debug/net9.0/ContactManager.pdb
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.AssemblyInfoInputs.cache
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.AssemblyInfo.cs
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.csproj.CoreCompileInputs.cache
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.sourcelink.json
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.dll
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/refint/ContactManager.dll
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.pdb
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ContactManager.genruntimeconfig.cache
+/Users/wojciechczok/Documents/code/csharp/ContactManager/obj/Debug/net9.0/ref/ContactManager.dll

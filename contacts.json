@@ -1,0 +1,26 @@
+[
+  {
+    "FirstName": "Anna",
+    "LastName": "Cz",
+    "Email": "a@gmail.com",
+    "PhoneNumber": "123"
+  },
+  {
+    "FirstName": "Wojciech",
+    "LastName": "Cz.",
+    "Email": "wcz@gmail.com",
+    "PhoneNumber": "345678896"
+  },
+  {
+    "FirstName": "Olga",
+    "LastName": "Cz.",
+    "Email": "olga@gmail.com",
+    "PhoneNumber": "123123123"
+  },
+  {
+    "FirstName": "Natalia",
+    "LastName": "Cz.",
+    "Email": "nati@wp.pl",
+    "PhoneNumber": "982835353"
+  }
+]
